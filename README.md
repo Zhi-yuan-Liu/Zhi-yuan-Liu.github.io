@@ -1,5 +1,3 @@
-# Zhiyuan Liu
-
 ![personal picture](https://Zhi-yuan-Liu.github.io/self-photo.jpg)
 
 Hello. I'm Zhiyuan Liu, an undergraduate in Mathematics majority from Southern University of Science and Technology.
