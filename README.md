@@ -12,4 +12,4 @@ I want to update my blogs of learning something new in this page.
 
 ## Presentations：
 
-- Special solutions of two ineqalitys from AMM and discreate analogue of a Gronwall-type inequality, Fields Honors Class 2023 of SUSTech workshop, 2024.3.
+- Special solutions of two inequalitys from AMM and discreate analogue of a Gronwall-type inequality, Fields Honors Class 2023 of SUSTech workshop, 2024.3.
