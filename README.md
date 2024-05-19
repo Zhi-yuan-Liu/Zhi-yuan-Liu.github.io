@@ -2,7 +2,7 @@
 
 Hello. I'm Zhiyuan Liu, an undergraduate in Mathematics majority from Southern University of Science and Technology. My advisor is [Ziqing Xiang](http://ziqing.org/) 
 
-I want to update my blogs of learning something new in this page.
+I will update my blogs of learning something new in this page.
 
 ## Issues:
 
