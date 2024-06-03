@@ -12,5 +12,5 @@ I will update my blogs of learning something new in this page.
 
 ## Presentations：
 
-- [Cardinal Arithmetic and Cardinal Numbers](https://Zhi-yuan-Liu.github.io/Naive Set Theory 刘志源.pdf), 2024.6.
+- [Cardinal Arithmetic and Cardinal Numbers](http://Zhi-yuan-Liu.github.io/NaiveSetTheory刘志源.pdf), 2024.6.
 - Special solutions of two inequalitys from AMM and discreate analogue of a Gronwall-type inequality, Fields Honors Class 2023 of SUSTech workshop, 2024.3.
