@@ -14,3 +14,6 @@ I will update my blogs of learning something new in this page.
 
 - [Cardinal Arithmetic and Cardinal Numbers](https://zhi-yuan-liu.github.io/Naive%20Set%20Theory%20%E5%88%98%E5%BF%97%E6%BA%90.pdf), 2024.6.
 - Special solutions of two inequalitys from AMM and discreate analogue of a Gronwall-type inequality, Fields Honors Class 2023 of SUSTech workshop, 2024.3.
+
+## Others:
+From 2026/1/12 to 2026/06/01, I study in Sweden as an exchange student in [KTH](https://www.kth.se/). Here is my [log] in Sweden
