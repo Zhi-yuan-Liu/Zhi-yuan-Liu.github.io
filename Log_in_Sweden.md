@@ -18,5 +18,10 @@ Then I hanged out in the city, trying to find interests. I found there is a "for
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0e375e34-6c9b-4d6c-90d7-840f384acfcc" style="width:50%;">
 </p>
-
+At 6pm, I got in the plane. It was a short trip but gave me a big gift after I arrived Stockholm. My baggage disappeared, and no crew cared. I felt okay, for my first surprise aboroad. Then I had my dinner in MAX, which is fantastic.
+ ### 2026/01/11/
+ I went to see a movie, bought something in COOP. And then I went to the Arlanda airport again to find my baggages, with nothing happen. One mean stuff of SAS told me the baggages had been sent to my hotel(in fact nothing been sent).
+ By the way, I found the price is astoinshing.
+ ### 2026/01/12/~01/18/
+ This is my first week in KTH.
  
