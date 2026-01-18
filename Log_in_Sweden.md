@@ -26,4 +26,18 @@ By the way, I found the price is astoinshing.
 
 ### 2026/01/12/~01/18/
 This is my first week in KTH.
- 
+I will post some pictures to show my initial life in Sweden.
+The First pic. is my bed. Without my baggages I could only sleep with the "naive" sheets.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ca5ebfc8-5cbd-43fa-b87b-7bc8f3f3bb44" style="width:50%;">
+</p>
+The second pic. and third pic. is some food I cooked. Actually it's my first time to cook by myself completely. It seems that I didn't care about the color. In fact I only care about how to alive.:)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/db665df3-2776-46dd-855a-94286483bbf4" style="width:50%;">
+  <img src="https://github.com/user-attachments/assets/4ee7bb23-3663-4f7b-99c6-0b9830a46986" style="width:50%;">
+</p>
+Additionly, I found a cinema near the campus. I bought a ticket for Korean movie No Other Choice. It cost 115kr.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a98f545e-23e3-4da8-ba83-89fe98f57c17" style="width:50%;">
+</p>
+Next week I will post my daily learning on this page.
