@@ -15,7 +15,7 @@ Free Issues
 |-----|-----|-----|-----|
 | Questions from CMC | 1 | N/A |  |
 | Game Theory Homework 1 | 2 | N/A | |
-| ASK BANK | 0 | 0 | $T_0$ |
+| ASK BANK | 0 | 0 | $$ T_0 $$ |
 | Number Thoery Recommended Problems | 3 | N/A | |
 | Read Machine Learning Notes | 4 | N/A | |
 
