@@ -1,6 +1,7 @@
 ### PLANS of 2026 Spring
 
 Free Issues
+
 | Issue | Deadline | Completed Date | Remark |
 |-----|-----|-----|-----|
 | IELTS | 0601 |  |  |
@@ -9,6 +10,7 @@ Free Issues
 
 
 **2026/1/18/**
+
 | Issue | Predicted Rank | Real Rank | remark |
 |-----|-----|-----|-----|
 | Questions from CMC | 1 | N/A |  |
@@ -18,5 +20,6 @@ Free Issues
 | Read Machine Learning Notes | 4 | N/A | |
 
 Extra Results
+
 | Issue | Remark |
 |-----|-----|
