@@ -9,7 +9,7 @@ Free Issues
 | SDE poster | 0510 | | |
 
 
-**2026/1/18/**
+**2026/1/19/**
 
 | Issue | Predicted Rank | Real Rank | remark |
 |-----|-----|-----|-----|
