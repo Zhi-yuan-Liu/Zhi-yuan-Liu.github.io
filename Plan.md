@@ -1,3 +1,16 @@
+
+<script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']]
+    }
+  };
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+
+
 ### PLANS of 2026 Spring
 
 Free Issues
@@ -15,7 +28,7 @@ Free Issues
 |-----|-----|-----|-----|
 | Questions from CMC | 1 | N/A |  |
 | Game Theory Homework 1 | 2 | N/A | |
-| ASK BANK | 0 | 0 | $\text{Top}_0$ |
+| ASK BANK | 0 | 0 |  $\text{Top}_0$ |
 | Number Thoery Recommended Problems | 3 | N/A | |
 | Read Machine Learning Notes | 4 | N/A | |
 
