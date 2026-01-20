@@ -27,11 +27,25 @@ Free Issues
 
 | Issue | Predicted Rank | Real Rank | remark |
 |-----|-----|-----|-----|
-| Questions from CMC | 1 | N/A |  |
-| Game Theory Homework 1 | 2 | N/A | |
+| Questions from CMC | 1 | 1 |  |
+| Game Theory Homework 1 | 2 | F | |
 | ASK BANK | 0 | 0 |  $\text{Top}_0$ |
-| Number Thoery Recommended Problems | 3 | N/A | |
-| Read Machine Learning Notes | 4 | N/A | |
+| Number Thoery Recommended Problems | 3 | F | |
+| Read Machine Learning Notes | 4 | F | |
+
+Extra Results
+
+| Issue | Remark |
+|-----|-----|
+|||
+
+**2026/1/20/**
+
+| Issue | Predicted Rank | Real Rank | remark |
+|-----|-----|-----|-----|
+| Game Theory Homework 1 | 1 | F | |
+| Number Thoery Recommended Problems | 2 | F | |
+| Read Machine Learning Notes | 3 | F | |
 
 Extra Results
 
