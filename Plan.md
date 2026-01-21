@@ -52,3 +52,12 @@ Extra Results
 | Issue | Remark |
 |-----|-----|
 |||
+
+*Remark* Feeling unwell today, I will update tomorrow
+
+**2026/1/21/**
+| Issue | Predicted Rank | Real Rank | remark |
+|-----|-----|-----|-----|
+| Game Theory Homework 1 | 1 | F | |
+| Number Thoery Recommended Problems | 2 | F | |
+| Read Machine Learning Notes | 3 | F | |
