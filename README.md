@@ -16,4 +16,4 @@ I will update my blogs of learning something new in this page.
 - Special solutions of two inequalitys from AMM and discreate analogue of a Gronwall-type inequality, Fields Honors Class 2023 of SUSTech workshop, 2024.3.
 
 ## Others:
-From 2026/1/12 to 2026/06/01, I study in Sweden as an exchange student in [KTH](https://www.kth.se/). Here is my [log](https://zhi-yuan-liu.github.io/Log_in_Sweden) and [Plan](https://zhi-yuan-liu.github.io/Plan) in Sweden
+From 2026/1/12 to 2026/06/01, I study in Sweden as an exchange student in [KTH](https://www.kth.se/). Here is my [log](https://zhi-yuan-liu.github.io/Log_in_Sweden) in Sweden
