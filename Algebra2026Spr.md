@@ -20,4 +20,4 @@ There will be one closed-book exam with 6 problems. The exam is worth 50% of the
 **Lecture:**
 [Lecture Videos](https://www.bilibili.com/video/BV1G6ZTBHEA9/?spm_id_from=333.1387.upload.video_card.click&vd_source=4967c645a900749279d47961465ca670)
 
-[Lecture 1 Notes](http://github.com/Zhi-yuan-Liu/Zhi-yuan-Liu.github.io/blob/main/2026_2_16_algebra.pdf): Matrix's Definition, Gauss Elimination, Row Echelon Form and Reduced Row Echelon Form
+[Lecture 1 Notes](http://Zhi-yuan-Liu.github.io/2026_2_16_algebra.pdf): Matrix's Definition, Gauss Elimination, Row Echelon Form and Reduced Row Echelon Form
