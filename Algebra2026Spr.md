@@ -17,6 +17,8 @@ There will be 3 assignments, each one contains 3 to 5 problems. The Homework is 
 
 There will be one closed-book exam with 6 problems. The exam is worth 50% of the **Grade**.
 
+[Homework 1](http://Zhi-yuan-Liu.github.io/2026_sprHomework%201%20作业%201.pdf)
+
 **Lecture:**
 [Lecture Videos](https://www.bilibili.com/video/BV1G6ZTBHEA9/?spm_id_from=333.1387.upload.video_card.click&vd_source=4967c645a900749279d47961465ca670)
 
