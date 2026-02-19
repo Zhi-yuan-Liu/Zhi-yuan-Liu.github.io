@@ -1,7 +1,7 @@
 **Algebra Course**
 
 **Lecturer:** Zhiyuan Liu
-https://www.bilibili.com/video/BV1zaZeBrEee/?spm_id_from=333.1387.homepage.video_card.click&vd_source=4967c645a900749279d47961465ca670
+
 **Refrence Book:** Artin, Michael. Algebra, second edition
 
 **Content of Course:(Following Chapter 1,2,3,4,5,13 in Artin's Book)**
