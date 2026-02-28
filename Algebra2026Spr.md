@@ -31,5 +31,5 @@ There will be one closed-book exam with 6 problems. The exam is worth 50% of the
 
 [Exercise 1 Video]
 
-[Exercise 1 Notes](http://Zhi-yuan-Liu.github.io/2026_2_18algebra2.pdf)
+[Exercise 1 Notes](http://Zhi-yuan-Liu.github.io/2026_2_28algebra2.pdf)
 
