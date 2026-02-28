@@ -29,7 +29,7 @@ There will be one closed-book exam with 6 problems. The exam is worth 50% of the
 
 [Lecture 2 Notes](https://github.com/Zhi-yuan-Liu/Zhi-yuan-Liu.github.io/raw/refs/heads/main/2026.2.19.%20Algebra.zip): Determination, Vector Space, Rank, Fundamental Spaces, Group, Dihedral Group, Cyclic Group, Group Homomophism, Lagrange Thm
 
-[Exercise 1 Video]
+[Exercise 1 Video](https://www.bilibili.com/video/BV1cXAezdEjR/?spm_id_from=333.1387.homepage.video_card.click&vd_source=4967c645a900749279d47961465ca670)
 
 [Exercise 1 Notes](http://Zhi-yuan-Liu.github.io/2026_2_28algebra2.pdf)
 
