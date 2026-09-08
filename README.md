@@ -22,7 +22,7 @@ I use this page to share my research, presentations, and notes on mathematics.
 
 - [**Incidence Geometry with Polarity and Tiled Surfaces**](https://zhi-yuan-liu.github.io/PACE_P5__Incidences_and_Tilings%20PPT.pdf), [PACE 2026](http://conference.bicmr.pku.edu.cn/meeting/index?id=139), August 2026.
 
-- [**Weak Convergence and Long-Time Accuracy in Brownian Dynamics**](https://zhi-yuan-liu.github.io/poster-KTH.pdf) Seminar of [SF 2525](https://emastr.github.io/sf2525.github.io/conference.html) in KTH(Sweden), May 2026.
+- [**Weak Convergence and Long-Time Accuracy in Brownian Dynamics**](https://zhi-yuan-liu.github.io/poster-KTH.pdf), Seminar of [SF 2525](https://emastr.github.io/sf2525.github.io/conference.html) in KTH(Sweden), May 2026.
 
 - **Polynomial Methods and Incidence Theory**, Undergraduate Seminar in SUSTech, March 2025.
 
