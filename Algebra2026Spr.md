@@ -9,13 +9,8 @@
 - Groups
 - Vector Space
 - Linear Operators
-- Applications of Linear Operators
-- Quadratic Number Fields
 
-**Homework and Exam:**
-There will be 3 assignments, each one contains 3 to 5 problems. The Homework is worth 50% of the **Grade**.
-
-There will be one closed-book exam with 6 problems. The exam is worth 50% of the **Grade**.
+**Homework:**
 
 [Homework 1](http://Zhi-yuan-Liu.github.io/2026_sprHomework%201%20作业%201.pdf)
 
