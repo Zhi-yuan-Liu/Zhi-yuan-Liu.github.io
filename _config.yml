@@ -1,2 +1,21 @@
-title: ""
+# Site settings
+title: "Zhiyuan Liu"
+description: "Undergraduate Student in Mathematics at SUSTech"
+
+# Theme
 theme: minima
+
+# Basic information
+author:
+  name: Zhiyuan Liu
+
+# Minima settings
+minima:
+  skin: classic
+
+# GitHub Pages
+url: "https://zhi-yuan-liu.github.io"
+baseurl: ""
+
+# Markdown
+markdown: kramdown
