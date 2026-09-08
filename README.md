@@ -22,11 +22,13 @@ I use this page to share my research, presentations, and notes on mathematics.
 
 - [**Incidence Geometry with Polarity and Tiled Surfaces**](https://zhi-yuan-liu.github.io/PACE_P5__Incidences_and_Tilings%20PPT.pdf), [PACE 2026](http://conference.bicmr.pku.edu.cn/meeting/index?id=139), August 2026.
 
-- **Polynomial Methods and Incidence Theory**, Undergraduate Seminar, March 2025.
+- [**Weak Convergence and Long-Time Accuracy in Brownian Dynamics**](https://zhi-yuan-liu.github.io/poster-KTH.pdf) Seminar of [SF 2525](https://emastr.github.io/sf2525.github.io/conference.html) in KTH(Sweden), May 2026.
 
-- [**Cardinal Arithmetic and Cardinal Numbers**](https://zhi-yuan-liu.github.io/Naive%20Set%20Theory%20%E5%88%98%E5%BF%97%E6%BA%90.pdf), Undergraduate Seminar, June 2024.
+- **Polynomial Methods and Incidence Theory**, Undergraduate Seminar in SUSTech, March 2025.
 
-- **Special Solutions to Two Inequalities from the American Mathematical Monthly and a Discrete Analogue of a Gronwall-Type Inequality**, Fields Honors Class 2023 Workshop at SUSTech, March 2024.
+- [**Cardinal Arithmetic and Cardinal Numbers**](https://zhi-yuan-liu.github.io/Naive%20Set%20Theory%20%E5%88%98%E5%BF%97%E6%BA%90.pdf), Undergraduate Seminar in SUSTech, June 2024.
+
+- **Special Solutions to Two Inequalities from the American Mathematical Monthly and a Discrete Analogue of a Gronwall-Type Inequality**, Fields Honors Class 2023 Workshop in SUSTech, March 2024.
 
 ## Others
 
