@@ -1,6 +1,6 @@
 ![personal picture](https://Zhi-yuan-Liu.github.io/self-photo.jpg)
 
-Hello. I'm Zhiyuan Liu, an undergraduate in Mathematics majority from Southern University of Science and Technology. My advisor is [Ziqing Xiang](http://ziqing.org/) 
+Hello. I'm Zhiyuan Liu ([CV](https://zhi-yuan-liu.github.io/CV-ZhiyuanLiu.pdf)), an undergraduate in Mathematics majority from Southern University of Science and Technology. My advisor is [Ziqing Xiang](http://ziqing.org/) 
 
 I will update my blogs of learning something new in this page.
 
