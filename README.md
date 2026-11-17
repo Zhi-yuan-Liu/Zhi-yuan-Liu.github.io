@@ -2,7 +2,7 @@
 
 # Zhiyuan Liu
 
-I am Zhiyuan Liu ([CV](https://zhi-yuan-liu.github.io/CV-ZhiyuanLiu.pdf)), an undergraduate student in Mathematics at the Southern University of Science and Technology (SUSTech). My advisor is [Ziqing Xiang](http://ziqing.org/).
+I am Zhiyuan Liu ([CV](https://zhi-yuan-liu.github.io/New_ZhiyuanLiu_CV.pdf)), an undergraduate student in Mathematics at the Southern University of Science and Technology (SUSTech). My advisor is [Ziqing Xiang](http://ziqing.org/).
 
 I use this page to share my research, presentations, and notes on mathematics.
 
