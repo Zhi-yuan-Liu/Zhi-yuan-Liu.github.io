@@ -8,17 +8,20 @@ I use this page to share my research, presentations, and notes on mathematics.
 
 ## Research & Preprints
 
+- With Yuanqi Jiang, and Peixuan Liu, [**Incidence Geometry with Polarity and Tiled Surfaces**](https://arxiv.org/abs/2611.16862), arXiv:2611.16862.
+
 - With Ziyi Dai, Qilin Hou, Warut Thawinrak, and Hongyu Wang, [**Counting Lattice Points in Minkowski Sums of Cross Polytopes**](https://arxiv.org/abs/2608.16037), arXiv:2608.16037.
 
-- With Chunji Wang and Yuchi Wu, **Cîrtoaje–Leng Inequality**, Preprint.
+- With Chunji Wang and Yuchi Wu, **Cîrtoaje–Leng Inequality**, [Chinese version](http://www.nsmath.cn/filedownload/1053317), Preprint.
 
-- [**Optimal Coefficients in Two Inequalities**](http://Zhi-yuan-Liu.github.io/两个不等式的最优系数-刘志源(南方科技大学).pdf), Preprint.
+- **Optimal Coefficients in Two Inequalities**, [Chinese version](http://Zhi-yuan-Liu.github.io/两个不等式的最优系数-刘志源(南方科技大学).pdf), Preprint.
 
-- With Yuhang Li, Duanyang Zhang, and Cheng Jiang, [**Open Mathematical Question of New-Star, Issue No. 49**](http://Zhi-yuan-Liu.github.io/数学新星问题征解第四十九期(2023.04).pdf), Preprint.
+- With Yuhang Li, Duanyang Zhang, and Cheng Jiang, **Open Mathematical Question of New-Star, Issue No. 49**, [Chinese version](http://Zhi-yuan-Liu.github.io/数学新星问题征解第四十九期(2023.04).pdf), Preprint.
 
-- With Huijun Feng, Shenjie Wang, and Chao Yi, [**Solutions to the 2022 Bulgarian Mathematical Olympiad**](https://Zhi-yuan-Liu.github.io/2022年保加利亚数学奥林匹克试题解析-冯慧君王沈杰易超刘志源(湖南长沙一中).pdf), Preprint.
+- With Huijun Feng, Shenjie Wang, and Chao Yi, **Solutions to the 2022 Bulgarian Mathematical Olympiad**, [Chinese version](https://Zhi-yuan-Liu.github.io/2022年保加利亚数学奥林匹克试题解析-冯慧君王沈杰易超刘志源(湖南长沙一中).pdf), Preprint.
 
 ## Presentations
+
 
 - [**Incidence Geometry with Polarity and Tiled Surfaces**](https://zhi-yuan-liu.github.io/PACE_P5__Incidences_and_Tilings%20PPT.pdf), [PACE 2026](http://conference.bicmr.pku.edu.cn/meeting/index?id=139), August 2026.
 
